@@ -1,0 +1,13 @@
+REM The next five lines open Notepad in Windows and type "Hello World!"
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 500
+STRING Hello World!
+CTRL s
+DELAY 500
+STRING Virus!
+ENTER
+DELAY 500
+ALT F4
